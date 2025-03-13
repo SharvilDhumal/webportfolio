@@ -570,7 +570,7 @@ footer {
 }
 
 .progress {
-  height: 100%;
+  height: 80%;
   background: #64ffda;
   border-radius: 3px;
   position: relative;
